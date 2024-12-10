@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L4ZYLinuxVendor
 - 👀 I’m interested in Rust and C
-- 🌱 I’m currently learning Lua/LuaU (or using idk)
+- 🌱 I’m currently learning Lua/LuaU (or using it, idk)
 - 📫 How to reach me Discord: belugi
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I love music, If a song is good enough I can listen to it on repeat without getting tired.
