@@ -1,4 +1,6 @@
-<p>It's always watching...</p>
+It's always watching...
+```
   _----_
 <   ::   >
   ¯----¯
+```
